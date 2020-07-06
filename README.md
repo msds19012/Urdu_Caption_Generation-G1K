@@ -22,9 +22,12 @@ We focused to build on the work of Vinyal et. al. [2]. InceptionV3 was employed 
 
 # Pyhton Notebooks:
 
-[1. Extracting feature Vectors from Images](https://github.com/msds19012/Urdu_Caption_Generation-G1K/blob/master/notebooks/1.Extracting%20feature%20Vectors%20from%20Images.ipynb)
-[2. Extracting Text Features](https://github.com/msds19012/Urdu_Caption_Generation-G1K/blob/master/notebooks/2.%20Extracting%20Text%20Features.ipynb)
-[3. Training Captioning Model](https://github.com/msds19012/Urdu_Caption_Generation-G1K/blob/master/notebooks/3.%20Training%20Captioning%20Model.ipynb)
+[1. Extracting feature Vectors from Images](https://github.com/msds19012/Urdu_Caption_Generation-G1K/blob/master/notebooks/1.Extracting%20feature%20Vectors%20from%20Images.ipynb)  
+
+[2. Extracting Text Features](https://github.com/msds19012/Urdu_Caption_Generation-G1K/blob/master/notebooks/2.%20Extracting%20Text%20Features.ipynb)  
+
+[3. Training Captioning Model](https://github.com/msds19012/Urdu_Caption_Generation-G1K/blob/master/notebooks/3.%20Training%20Captioning%20Model.ipynb)  
+
 [4. Caption Generator](https://github.com/msds19012/Urdu_Caption_Generation-G1K/blob/master/notebooks/4.%20Caption%20Generator%20.ipynb)
 
 # Results:
