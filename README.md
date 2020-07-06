@@ -6,3 +6,11 @@ Course Link: http://im.itu.edu.pk/deep-learning-spring-2020/
 # Abstract:
 Image caption generation has been seen as a quite difficult task mainly due to two reasons the first being the ability to solve computer vision challenges of detecting and determining objects in a given image and also to capture and express the relationships of these objects in a natural language. Moreover, due to the sparsity of annotated resources in languages other than English, this task becomes more challenging and arduous. Also, a lot of work has already been done in this regard for English language as compared to other languages like urdu which adds to the complexity of this task. Our work basically focuses on generating high quality Urdu captions from images by capturing image features through CNN, then generating text features through word embeddings. Finally generating captions through greedy search. For generating captions in Urdu we manually prepared a translated subset of Flickr8K dataset to cater the complexity of the problem to some extent. Our selected subset mainly focuses on images containing boys doing various activities. Urdu is a diverse language in comparison to English and its grammar makes it quite difficult to work with. However, we employed an urdu word2vec model to cater this issue. 
 
+# Dataset:
+* We have used a subset of Flickr8K dataset containing images of boys involved in various activities.
+* Total 550 images with 2750 captions (5 captions per image) are present in the dataset
+* We have manually translated these captions from english to Urdu.
+
+# Model Architecture:
+
+![Flow diagram](https://github.com/msds19012/Urdu_Caption_Generation-G1K/blob/master/images/model.png)
