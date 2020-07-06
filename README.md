@@ -32,5 +32,13 @@ We focused to build on the work of Vinyal et. al. [2]. InceptionV3 was employed 
 
 # Results:
 
-Results for InceptionV3 model are shown below:
+Results for InceptionV3 model are shown below:  
+
 ![results](https://github.com/msds19012/Urdu_Caption_Generation-G1K/blob/master/images/results.png)
+
+# References:
+
+[1] Miyazaki et. al. Cross-lingual image caption generation. Association for
+Computational Linguistics. (2016)  
+[2] Vinyals et. al. Show and tell: A neural image caption generator. IEEE
+conference on computer vision and pattern recognition. (2015)
