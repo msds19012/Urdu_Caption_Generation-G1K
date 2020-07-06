@@ -16,8 +16,9 @@ Image caption generation has been seen as a quite difficult task mainly due to t
 
 # Model Architecture:
 
-We focused to build on the work of Vinyal et. al. [2]. InceptionV3 was employed as CNN to extract the features of the image. We have generated urdu word embeddings which help in genearation urdu captions for images. We have employed the GreedySearch approach and used LSTM language model for caption generation.  
+We focused to build on the work of Vinyal et. al. [2]. InceptionV3 was employed as CNN to extract the features of the image. We have generated urdu word embeddings using urdu word2vec model by urduhack to genearate urdu captions for images. We have employed the GreedySearch approach and used LSTM language model for caption generation.  
 
 ![Flow diagram](https://github.com/msds19012/Urdu_Caption_Generation-G1K/blob/master/images/model.png)
+
 
 
