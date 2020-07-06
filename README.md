@@ -10,7 +10,12 @@ Image caption generation has been seen as a quite difficult task mainly due to t
 * We have used a subset of Flickr8K dataset containing images of boys involved in various activities.
 * Total 550 images with 2750 captions (5 captions per image) are present in the dataset
 * We have manually translated these captions from english to Urdu.
+* Dataset link: https://drive.google.com/drive/u/1/folders/1mIZghxXLIYE4lRN3pOUyvZrwcMqYM_rZ
+
+![dataset](https://github.com/msds19012/Urdu_Caption_Generation-G1K/blob/master/images/dataset.PNG)
 
 # Model Architecture:
 
 ![Flow diagram](https://github.com/msds19012/Urdu_Caption_Generation-G1K/blob/master/images/model.png)
+
+
