@@ -20,7 +20,7 @@ We focused to build on the work of Vinyal et. al. [2]. InceptionV3 was employed 
 
 ![Flow diagram](https://github.com/msds19012/Urdu_Caption_Generation-G1K/blob/master/images/model.png)
 
-# Pyhton Notebooks:
+# Python Notebooks:
 
 [1. Extracting feature Vectors from Images](https://github.com/msds19012/Urdu_Caption_Generation-G1K/blob/master/notebooks/1.Extracting%20feature%20Vectors%20from%20Images.ipynb)  
 
@@ -32,3 +32,5 @@ We focused to build on the work of Vinyal et. al. [2]. InceptionV3 was employed 
 
 # Results:
 
+Results for InceptionV3 model are shown below:
+![results](https://github.com/msds19012/Urdu_Caption_Generation-G1K/blob/master/images/results.png)
