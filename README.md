@@ -38,7 +38,9 @@ Results for InceptionV3 model are shown below:
 |--- |--- |--- |
 | InceptionV3 | 0.562 | 0.610 |
 | VGG 16 | 0.538 | 0.587 |  
-
+  
+  
+  
 ![results](https://github.com/msds19012/Urdu_Caption_Generation-G1K/blob/master/images/results.png)
 
 # References:
