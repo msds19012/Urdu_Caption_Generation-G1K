@@ -34,6 +34,11 @@ We focused to build on the work of Vinyal et. al. [2]. InceptionV3 was employed 
 
 Results for InceptionV3 model are shown below:  
 
+| MODEL | TRAINING 280, TESTING 30 | TRAINING 500, TESTING 50 |
+|--- |--- |--- |
+| InceptionV3 | 0.562 | 0.610 |
+| VGG 16 | 0.538 | 0.587 |  
+
 ![results](https://github.com/msds19012/Urdu_Caption_Generation-G1K/blob/master/images/results.png)
 
 # References:
